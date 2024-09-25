@@ -1,0 +1,17 @@
+.add-recipe-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.add-recipe-form input,
+.add-recipe-form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.add-recipe-form button {
+  padding: 10px;
+  cursor: pointer;
+}
